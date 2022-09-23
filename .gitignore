@@ -1,0 +1,9 @@
+# dependencies
+/node_modules
+
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
